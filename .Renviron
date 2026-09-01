@@ -1,0 +1,10 @@
+# .Renviron — environment variables for this project.
+# Do NOT commit real secrets. Put real values in .Renviron.local
+# (gitignored) or your system environment.
+
+# Example:
+# DATA_API_KEY=replace-me
+# AWS_DEFAULT_REGION=us-east-1
+
+# Grow vroom's read buffer for very wide/awkward files if needed
+# VROOM_CONNECTION_SIZE=500000

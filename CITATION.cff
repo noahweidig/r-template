@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+title: "mtbs-treemap"
+type: software
+authors:
+  - given-names: "My"
+    family-names: "Name"
+    email: "name@example.com"
+date-released: "2026-09-01"
+abstract: "My Project Description Here"
