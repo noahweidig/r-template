@@ -1,4 +1,4 @@
-# Contributing to mtbs-treemap
+# Contributing to r-template
 
 Thanks for taking the time to contribute!
 
